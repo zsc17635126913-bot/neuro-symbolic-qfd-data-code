@@ -1,0 +1,17 @@
+**/__pycache__/
+*.py[cod]
+
+# Generated analysis outputs
+主代码/**/*.parquet
+主代码/**/*.npz
+主代码/**/*.pkl
+主代码/**/*.pkl.gz
+主代码/**/*.csv
+主代码/**/*.json
+主代码/**/*.log
+主代码/**/*.xlsx
+主代码/**/*.png
+主代码/**/*.pdf
+主代码/**/*.svg
+主代码/**/*.tif
+主代码/**/*.tiff

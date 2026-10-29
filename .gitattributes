@@ -1,0 +1,5 @@
+# Large source data and embedding shards use Git LFS.
+数据/01_评论片段与冻结评分/双品牌评论片段_全量情感效价与工程严重度冻结评分.csv filter=lfs diff=lfs merge=lfs -text
+数据/01_评论片段与冻结评分/双品牌评论语义切片原始记录.xlsx filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
